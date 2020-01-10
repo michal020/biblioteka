@@ -1,0 +1,85 @@
+.up
+{
+padding: 10px;
+color: white;
+font-weight: 600;
+}
+.one
+{
+	text-align:center;
+	width:auto ;
+	height:auto;
+	
+
+}
+.one1
+{
+	text-align:center;
+	width:auto ;
+	height:auto;
+	
+	
+}
+.col
+{
+	text-align:center;
+	width:auto ;
+	height:auto;
+
+
+}
+.body
+{
+width: auto;
+height: 100%;
+padding: 10px;
+background-image: url(tlo.jpg);cover; 
+color: white;
+font-weight: 600;
+background-size: cover;
+}
+
+.log
+{
+	text-align:center;
+	width:auto ;
+	height:auto;
+}
+
+.afront
+{
+text-align:center;
+	width:auto ;
+	height:auto;	
+}
+                   /*books*/
+.boodya
+{
+padding: 20px;
+background-image: url(tlo.jpg); 
+color: white;
+background-size: cover;
+}
+.boks2
+{
+	
+	text-align:left;
+	width:auto ;
+	height:auto;
+}
+.boks
+{
+ text-align:left;
+	width:auto ;
+	height:auto;
+}
+
+
+
+.up1
+{
+	
+padding: 10px;
+color: white;
+
+}
